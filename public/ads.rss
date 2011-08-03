@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel><title>DailyBuzz - Today's Top 9</title>
+<description>Curating the best of the independent web.</description>
+<link>http://www.example.com/</link>
+<language>en-us</language>
+<item><title>provident et delectus quia</title>
+<link>http://www.example.com/provident-et-delectus-quia</link>
+<guid>http://www.example.com/provident-et-delectus-quia</guid>
+<pubDate>Wed, 03 Aug 2011 19:40:12 +0000</pubDate>
+<description>&lt;img
+src="http://www.example.com/system/images/358/medium/sample.jpg?1312404013"&gt;&lt;/img&gt;
+&lt;h2&gt;&lt;a
+href="http://www.example.com/blog/4276-voluptas-exercitationem-sunt"&gt;voluptas
+exercitationem sunt&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;Nihil.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;from Jose Stroman&lt;/em&gt;&lt;/p&gt;
+</description>
+<summary>
+<![CDATA[
+   <img src="http://www.example.com/system/images/358/medium/sample.jpg?1312404013"></img>
+   <h2><a href="http://www.example.com/blog/4276-voluptas-exercitationem-sunt">voluptas
+exercitationem sunt</a></h2>
+   <blockquote>Nihil.</blockquote>
+
+   <p><em>from Jose Stroman</em></p>
+]]>
+</summary>
+</item>
+
+</channel>
+</rss>
